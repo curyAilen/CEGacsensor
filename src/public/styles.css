@@ -1,0 +1,61 @@
+/*
+COLORES:
+Rojo: #D91A3D
+Verde oscuro: #027353
+Verde: #007A5E
+Verde claro: #58A690
+Naranja: #F2811D
+Blanco: #F2F2F2
+*/
+*{
+    box-sizing: content-box;
+    margin: 0;
+    padding: 0;
+}
+   /* Custom styles for navbar */
+   body {
+    background-color: #d2fff2;
+}
+
+.navbar {
+    background-color: #027353;
+    color: white;
+}
+
+.navbar-toggler-icon {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-nav .nav-item.dropdown:hover .enfasis{
+    color: #F2811D;
+}
+
+.navbar-toggler {
+    border-color: white;
+}
+
+.dropdown-menu {
+    background-color: #027353;
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+@media (max-width: 767px) {
+    .navbar-collapse {
+        background-color: #027353;
+    }
+}
