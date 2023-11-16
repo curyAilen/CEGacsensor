@@ -1,3 +1,3 @@
 #CEG El Ascensor
 
-**Gimnasio de alto y bajo rendimiento**
+**Gimnasio de alto rendimiento y recreativo**
